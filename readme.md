@@ -13,6 +13,7 @@ Created by Payton Shaltis as a project template.
   - React Testing Library
 - Backend Package
   - NestJS (TypeScript)
+  - TypeORM (TypeScript and PG)
   - PassportJS
   - JWT Passport Strategy
   - RxJS
